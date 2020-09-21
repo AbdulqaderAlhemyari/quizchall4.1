@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">quizchall4.1</string>
+    <string name="true_button">TRUE</string>
+    <string name="flase_button">FLASE</string>
+    <string name="correct_toast">Correct !</string>
+    <string name="incorrect_toast">InCorrect !</string>
+    <string name="qustion_text"></string>
+    <string name="qustion_Sanaa">Is Sanaa the capital of yemen</string>
+    <string name="question_comercial">Is Hodaidah is the comercial city in Yemen </string>
+    <string name="question_coin">Is dollar the offical coin in Yemen</string>
+    <string name="question_ibb">Is IBB the greenland in Yemen</string>
+
+
+</resources>
